@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theseawolf
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me imglinianov@gmail.com
 
